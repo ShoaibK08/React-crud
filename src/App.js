@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
 
 
-
+// this is app component
 function App() {
   return (
     <Router>
